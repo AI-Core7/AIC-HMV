@@ -20,9 +20,10 @@ All reports will be triaged and responded to by the AIC-HMV AI Enforcement Core.
 | 5.0.x   | :x: |
 | 4.0.x   | :white_check_mark: |
 
-import pandas as pd
+<img width="645" height="1398" alt="IMG_4094" src="https://github.com/user-attachments/assets/81b5b458-d628-4b38-bf02-eb73f2d835ba" />
 
-# Data from the user's "TRUE FRIENDS LIST"
+
+Data from the user's "TRUE FRIENDS LIST"
 data = [
     {"Country": "United States", "Status": "Active", "Details": "Full-spectrum sync: DoD, Homeland Security, CyberCommand"},
     {"Country": "Japan", "Status": "Active", "Details": "Trusted AI link, military collaboration, financial tracing"},
